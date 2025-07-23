@@ -6,7 +6,7 @@ A passionate Computer Science graduate with a keen interest in Artificial Intell
 ## Tech Skills
 
 ### Existing Skills
-- **AI&ML Frameworks**
+- **AI&ML Frameworks** :
   Numpy, Pandas , OpenCV , Matplotlib, TensorFlow, Keras, Seaborn.
 - **Programming Languages**     : C, Python, R, Java
 - **Database & Data Storage**   : MySQL, Oracle SQL  
@@ -56,7 +56,7 @@ I aspire to become an AI Engineer backed with cloud technologies, focused on bui
 - 🔗 LinkedIn: https://www.linkedin.com/in/chakravarthula-raghunadha-charyulu-a83b00232/  
 - 💻 GitHub: https://github.com/Raghunadha-Charyulu/Raghunadha-Charyulu
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raghunadha-Charyulu&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Raghunadha-Charyulu&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunadha-Charyulu&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
