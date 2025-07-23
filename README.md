@@ -55,3 +55,18 @@ I aspire to become an AI Engineer backed with cloud technologies, focused on bui
 - 📧 Email: kravvark496@gmail.com 
 - 🔗 LinkedIn: https://www.linkedin.com/in/chakravarthula-raghunadha-charyulu-a83b00232/  
 - 💻 GitHub: https://github.com/Raghunadha-Charyulu/Raghunadha-Charyulu
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Raghunadha-Charyulu&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Raghunadha-Charyulu&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunadha-Charyulu&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Raghunadha-Charyulu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
