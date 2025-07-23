@@ -12,7 +12,7 @@ A passionate Computer Science graduate with a keen interest in Artificial Intell
 - **Database & Data Storage**   : MySQL, Oracle SQL  
 - **Web Development**           : HTML, CSS, JavaScript, React   
 - **Soft Skills**               : Problem Solving, Team Collaboration, Resilience, Adaptability, Task Management.
-### Planning to Learn
+### Planning to Develop Skills
 - Cloud Technologies (AWS / GCP ) 
 - Large Language Models (LLMs) And Transformer models
 
