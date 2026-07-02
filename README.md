@@ -1,18 +1,19 @@
 # Ch Raghunadha Charyulu
 
 ## About Me
-A passionate Computer Science graduate with a keen interest in Artificial Intelligence, Machine Learning, and software development. As specializing in AI&ML with hands-on experience in machine learning, data analysis, and model fine-tuning. Proficient in Python, Java, and AI tools, with internship exposure to chatbot development and web technologies. Seeking opportunities to apply my skills in AI-driven solutions and gain industry experience.
+As Data Engineer with hands-on experience in Azure Data Engineering and as AIML enthusiast with strong foundation in Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building scalable AI-powered applications, production-grade data pipelines, and intelligent automation solutions using Python, Azure, and modern AI frameworks. Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, and Agentic AI while expanding my expertise in enterprise AI development.
 
 ## Tech Skills
 
 ### Existing Skills
 - **AI&ML Frameworks** :
-  Numpy, Pandas , OpenCV , Matplotlib, TensorFlow, Keras, Seaborn.
-- **Programming Languages**     : C, Python, R, Java
-- **Database & Data Storage**   : MySQL, Oracle SQL  
-- **Web Development**           : HTML, CSS, JavaScript, React   
+  Numpy, Pandas , OpenCV , Matplotlib, TensorFlow, Keras, Seaborn, PyTorch, PySpark, LLMs, RAG, LangChain.
+- **Data Engineering**          : Azure Data Factory(ADF), Azure Databricks, Linked Services, ETL Pipeline Development, Data Transformation.
+- **Programming Languages**     : C, Python, R, Java.
+- **Database & Data Storage**   : MySQL, Oracle SQL.  
+- **Web Development**           : HTML, CSS, JavaScript.  
 - **Soft Skills**               : Problem Solving, Team Collaboration, Resilience, Adaptability, Task Management.
-### Planning to Develop Skills
+### Learning to Develop Skills
 - Cloud Technologies (AWS / GCP ) 
 - Large Language Models (LLMs) And Transformer models
 
@@ -21,8 +22,9 @@ A passionate Computer Science graduate with a keen interest in Artificial Intell
 ### Aluminum Surface Defect Detection using YOLOv8 and Swin Transformer
 Built a deep learning pipeline to detect and classify surface defects on aluminum materials. Achieved 90% accuracy in classification using a hybrid of object detection and vision transformers. Improved quality control efficiency by 40% through data augmentation and interpretability techniques.
 
-### Online Auction Platform (MERN Stack)
-Built a full-stack auction system enabling real-time bidding and secure transactions using ReactJS, ExpressJS, and MongoDB. Designed intuitive UIs for seller listings, bidder engagement, and integrated RESTful APIs for backend communication
+### Enterprise Multi-Agent RAG Pipeline for Unstructured Data Analytics
+Engineered a production-grade multi-agent RAG system using LangChain and LangGraph to automate intelligent document parsing and context verification.
+And implemented hierarchical structural text chunking and metadata extraction workflows using LlamaIndex to process complex, unstructured data formats.
 
 ### Fine-Tuning Large Language Models (LLMs) using GPT-2
 Fine-tuned the GPT-2 model on domain-specific datasets for advanced text generation tasks. Enhanced coherence and relevance of outputs using controlled decoding and token optimization. Demonstrated improved language understanding and contextual fluency in the generated text.
