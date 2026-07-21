@@ -1,7 +1,7 @@
 # Ch Raghunadha Charyulu
 
 ## About Me
-As Data Engineer with hands-on experience in Azure Data Engineering and as AIML enthusiast with strong foundation in Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building scalable AI-powered applications, production-grade data pipelines, and intelligent automation solutions using Python, Azure, and modern AI frameworks. Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, and Agentic AI while expanding my expertise in enterprise AI development.
+As Ai & Data Engineer with hands-on experience in Azure Data Engineering and as AIML enthusiast with strong foundation in Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building scalable AI-powered applications, production-grade data pipelines, and intelligent automation solutions using Python, Azure, and modern AI frameworks. Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, and Agentic AI while expanding my expertise in enterprise AI development.
 
 ## Tech Skills
 
